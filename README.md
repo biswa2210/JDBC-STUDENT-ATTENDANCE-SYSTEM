@@ -23,10 +23,26 @@ Rather than designing manually we have made use of computer as once that data’
 
 ## Folder Structure :point_down:
 ```bash
-
-     ├── .idea
-
-     └── rootwallpaper.jpg 
+JDBC-STUDENT-ATTENDENCE-SYSTEM
+     ├── .settings
+     |       └── org.eclipse.jdt.core.prefs
+     ├── bin
+     |     ├── com/student/manage
+     |     |         ├── Attendence.class
+     |     |         ├── ConnectionEstablish.class
+     |     |         └── ConnectionOpratios.class
+     |     ├── Operations.class
+     |     ├── menuItems.class
+     |     └── menu.class 
+     ├── src
+     |     ├── com/student/manage
+     |     |         ├── Attendence.java
+     |     |         ├── ConnectionEstablish.java
+     |     |         └── ConnectionOpratios.java
+     |     ├── Operations.java
+     |     └── menu.java
+     ├── .classpath
+     └── .project
 ```                       
 
 ## Making :point_down:
