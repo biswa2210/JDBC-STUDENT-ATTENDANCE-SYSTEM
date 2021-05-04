@@ -66,8 +66,8 @@ g.	Exit Program:
 If we want to exit the program we have to choose option 5. Then the program will be closed.
 We have used Idea Intellij Software for java and MySql for sql.
 JDBC Connectivity:
-We have created a project in Idea Intellij IDE. We have created 4 java files in src folder. These are Main.java, ConnectionProvider.java, ConnectionMethods.java, Student.java. 
-We have successfully established a connection with the relation database model with ‘ConnectionProvider.java’ and created a new database called “students_record” using mysql .With the specified root route and in the specified location (here localhost ) with particular username and password we have established a smooth connection with our java project. Handling records and searching for them becomes easier which such database management system.
+We have created a project in Idea Intellij IDE. We have created 4 java files in src folder. These are Menu.java, Operations.java, ConnectionEstablish.java, ConnectionOperatios.java, Attendence.java. 
+We have successfully established a connection with the relation database model with ‘ConnectionEstablish.java’ and created a new database called “attendence_record” using mysql .With the specified root route and in the specified location (here localhost ) with particular username and password we have established a smooth connection with our java project. Handling records and searching for them becomes easier which such database management system.
 Such error handling, easy searching and safer security of storing data is only being established with the help of this Java Database Connectivity.
 A JAR is a package file format was included in order to provide the connectivity of our database , typically used to aggregate many Java class files and associated metadata and resources into one file for distribution. JAR files are archive files that include a Java-specific manifest file. They are built on the ZIP format and typically have a .jar file extension.
 Non-functional requirements:
@@ -85,21 +85,35 @@ Considered the level of knowledge possessed by the user of this system, a simple
 
 ## Screenshots :point_down: 
 <div align="center">
-<a href="at1.jpeg"><img src="at1.jpeg" width="400" height= "280"></a> <a href="at2.jpeg"><img src="at2.jpeg" width="400" height= "280"></a>
+<a href="at1.jpeg"><img src="at1.jpeg" width="800" height= "280"></a> 
+     
+<a href="at2.jpeg"><img src="at2.jpeg" width="800" height= "280"></a>
 
-<a href="at3.jpeg"><img src="at3.jpeg" width="400" height= "280"></a> <a href="at4.jpeg"><img src="at4.jpeg" width="400" height= "280"></a>
+<a href="at3.jpeg"><img src="at3.jpeg" width="800" height= "280"></a> 
 
-<a href="at5.jpeg"><img src="at5.jpeg" width="400" height= "280"></a> <a href="at6.jpeg"><img src="at6.jpeg" width="400" height= "280"></a>
+<a href="at4.jpeg"><img src="at4.jpeg" width="800" height= "280"></a>
 
-<a href="at7.jpeg"><img src="at7.jpeg" width="400" height= "280"></a> <a href="at8.jpeg"><img src="at8.jpeg" width="400" height= "280"></a>
+<a href="at5.jpeg"><img src="at5.jpeg" width="800" height= "280"></a> 
 
-<a href="at9.jpeg"><img src="at9.jpeg" width="400" height= "280"></a> <a href="at10.jpeg"><img src="at10.jpeg" width="400" height= "280"></a>
+<a href="at6.jpeg"><img src="at6.jpeg" width="800" height= "280"></a>
 
-<a href="at11.jpeg"><img src="at11.jpeg" width="400" height= "280"></a> <a href="at12.jpeg"><img src="at12.jpeg" width="400" height= "280"></a>
+<a href="at7.jpeg"><img src="at7.jpeg" width="800" height= "280"></a> 
 
-<a href="at13.jpeg"><img src="at13.jpeg" width="400" height= "280"></a> <a href="at14.jpeg"><img src="at14.jpeg" width="400" height= "280"></a>
+<a href="at8.jpeg"><img src="at8.jpeg" width="800" height= "280"></a>
 
-<a href="at15.jpeg"><img src="at15.jpeg" width="400" height= "280"></a>
+<a href="at9.jpeg"><img src="at9.jpeg" width="800" height= "280"></a> 
+
+<a href="at10.jpeg"><img src="at10.jpeg" width="800" height= "280"></a>
+
+<a href="at11.jpeg"><img src="at11.jpeg" width="800" height= "280"></a> 
+
+<a href="at12.jpeg"><img src="at12.jpeg" width="800" height= "280"></a>
+
+<a href="at13.jpeg"><img src="at13.jpeg" width="800" height= "280"></a> 
+
+<a href="at14.jpeg"><img src="at14.jpeg" width="800" height= "280"></a>
+
+<a href="at15.jpeg"><img src="at15.jpeg" width="800" height= "280"></a>
 </div>
 
 
