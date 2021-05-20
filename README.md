@@ -108,35 +108,35 @@ Considered the level of knowledge possessed by the user of this system, a simple
 ## Screenshots :point_down: .
 
 <div align="center">
-<a href="pics/at1.jpeg"><img src="pics/at1.jpeg" width="800" height= "280"></a> 
+<a href="pics/at1.jpeg"><img src="pics/at1.jpeg" width="800" height= "300"></a> 
      
-<a href="pics/at2.jpeg"><img src="pics/at2.jpeg" width="800" height= "280"></a>
+<a href="pics/at2.jpeg"><img src="pics/at2.jpeg" width="800" height= "300"></a>
 
-<a href="pics/at3.jpeg"><img src="pics/at3.jpeg" width="800" height= "280"></a> 
+<a href="pics/at3.jpeg"><img src="pics/at3.jpeg" width="800" height= "300"></a> 
 
-<a href="pics/at4.jpeg"><img src="pics/at4.jpeg" width="800" height= "280"></a>
+<a href="pics/at4.jpeg"><img src="pics/at4.jpeg" width="800" height= "300"></a>
 
-<a href="pics/at5.jpeg"><img src="pics/at5.jpeg" width="800" height= "280"></a> 
+<a href="pics/at5.jpeg"><img src="pics/at5.jpeg" width="800" height= "300"></a> 
 
-<a href="pics/at6.jpeg"><img src="pics/at6.jpeg" width="800" height= "280"></a>
+<a href="pics/at6.jpeg"><img src="pics/at6.jpeg" width="800" height= "300"></a>
 
-<a href="pics/at7.jpeg"><img src="pics/at7.jpeg" width="800" height= "280"></a> 
+<a href="pics/at7.jpeg"><img src="pics/at7.jpeg" width="800" height= "300"></a> 
 
-<a href="pics/at8.jpeg"><img src="pics/at8.jpeg" width="800" height= "280"></a>
+<a href="pics/at8.jpeg"><img src="pics/at8.jpeg" width="800" height= "300"></a>
 
-<a href="pics/at9.jpeg"><img src="pics/at9.jpeg" width="800" height= "280"></a> 
+<a href="pics/at9.jpeg"><img src="pics/at9.jpeg" width="800" height= "300"></a> 
 
-<a href="pics/at10.jpeg"><img src=pics/"at10.jpeg" width="800" height= "280"></a>
+<a href="pics/at10.jpeg"><img src=pics/"at10.jpeg" width="800" height= "300"></a>
 
-<a href="pics/at11.jpeg"><img src="pics/at11.jpeg" width="800" height= "280"></a> 
+<a href="pics/at11.jpeg"><img src="pics/at11.jpeg" width="800" height= "300"></a> 
 
-<a href="pics/at12.jpeg"><img src="pics/at12.jpeg" width="800" height= "280"></a>
+<a href="pics/at12.jpeg"><img src="pics/at12.jpeg" width="800" height= "300"></a>
 
-<a href="pics/at13.jpeg"><img src="pics/at13.jpeg" width="800" height= "280"></a> 
+<a href="pics/at13.jpeg"><img src="pics/at13.jpeg" width="800" height= "300"></a> 
 
-<a href="pics/at14.jpeg"><img src="pics/at14.jpeg" width="800" height= "280"></a>
+<a href="pics/at14.jpeg"><img src="pics/at14.jpeg" width="800" height= "300"></a>
 
-<a href="pics/at15.jpeg"><img src="pics/at15.jpeg" width="800" height= "280"></a>
+<a href="pics/at15.jpeg"><img src="pics/at15.jpeg" width="800" height= "300"></a>
 </div>
 
 
